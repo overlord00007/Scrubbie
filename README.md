@@ -1,6 +1,6 @@
 # Scrubbie🖌️
 
-Scrubbie is a lively multiplayer online drawing and guessing game, inspired by similar games in the genre, built using **CSS**, **JavaScript** **Node.js** and **Socket.io**. Players take turns sketching a given word on canvas while others race to guess it correctly. With real-time communication via Socket.io, participants can chat, share their drawings, and engage in a fun, interactive gaming environment. Unleash your creativity and enjoy the competition in DoodleGuess! 🎨  
+Scrubbie is a lively multiplayer online drawing and guessing game, inspired by similar games in the genre, built using **CSS**, **JavaScript** , **Node.js** and **Socket.io**. Players take turns sketching a given word on canvas while others race to guess it correctly. With real-time communication via Socket.io, participants can chat, share their drawings, and engage in a fun, interactive gaming environment. Unleash your creativity and enjoy the competition in DoodleGuess! 🎨  
 
 This project is my first attempt at recreating a popular drawing-based game.
 
