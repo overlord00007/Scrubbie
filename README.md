@@ -91,7 +91,7 @@ Restarts the game for all players.
 1. Clone the repository:
    ```bash
    $ git clone <repository-url>
-   $ cd DoodleGuess
+   $ cd scrubbie
    ```
 
 2. Install dependencies:
